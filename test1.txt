@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 84BA-19A8
-
- Directory of C:\Users\VENKATA\Desktop\My Git project
-
-03/07/2018  06:12 PM    <DIR>          .
-03/07/2018  06:12 PM    <DIR>          ..
-03/07/2018  06:12 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  197,194,051,584 bytes free
+change 1
